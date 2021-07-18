@@ -1,3 +1,15 @@
+.signin-and-signup {
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px auto;
+}
+
 .sign-in {
-  width: 30vh;
+  width: 47.5%;
+  margin-right: 15px;
+}
+.sign-up {
+  width: 47.5%;
+  margin-left: 15px;
 }
